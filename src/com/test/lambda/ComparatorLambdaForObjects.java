@@ -19,6 +19,7 @@ public class ComparatorLambdaForObjects {
 		al1.add(new Employee(20, "shashi1"));
 		al1.add(new Employee(05, "vinnu1"));
 		al1.add(new Employee(8, "riki1"));
+		al1.add(new Employee(48, "GireeshDynamicStar"));
 		System.out.println(al1.toString());
 		
 		
